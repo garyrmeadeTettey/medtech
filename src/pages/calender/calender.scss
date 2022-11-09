@@ -1,0 +1,101 @@
+.mainbox {
+    display: flex;
+    justify-content: space-between;
+    // max-width: 100%;
+    
+    text-decoration-color: black;
+    
+    .side{
+        background-color: rgb(97, 143, 143);
+        border-radius: 20px;
+        margin: 15px;
+        max-width: 555px;
+        margin-bottom: 15px;
+    }
+
+    .type{
+        color: black;
+        font-size: 30px;
+        font-weight: bold;
+        border: solid 4px black;
+        border-radius: 15px;
+        margin-bottom: 10px;
+        padding: 5px;
+
+        
+    }
+    .type1{
+        color: black;
+        font-size: 15px;
+        
+        border: solid 3px rgb(20, 20, 20);
+        padding: 5px;
+        font-weight: 400;
+        border-radius: 5px;
+
+        
+
+        &:hover{
+            background-color: rgb(39, 38, 38);
+            border: solid 3px rgb(17, 17, 17);
+            color: rgb(2, 241, 82);;
+            
+        }
+    }
+
+    
+
+    .icon {
+        color: rgb(2, 241, 82);
+        size: 20px;
+        background-color: rgb(16, 24, 24);
+        // border-radius: 50%;
+        max-width: 50px;
+        max-height: 50px;
+        margin-top: 5px;
+
+        &:hover{
+            background-color: rgb(90, 88, 88);
+            border: solid 3px rgb(90, 88, 88);
+        }
+    }
+    .btn-1 {
+        color: rgb(2, 241, 82);
+        size: 20px;
+        background-color: rgb(16, 24, 24);
+        border-radius: 50%;
+        margin-top: 5px;
+
+        &:hover{
+            background-color: rgb(90, 88, 88);
+            border: solid 3px rgb(90, 88, 88);
+        }
+    }
+    
+    .type2{
+        color: rgb(7, 2, 2);
+        font-size: 25px;
+        font-weight: 400;
+        border: solid 4px rgb(14, 14, 14);
+        // max-width: 150px;
+        border-radius: 10px;
+        text-decoration: underline;
+        background-color: rgb(135, 139, 139);
+
+        
+    }
+
+
+
+    .sidebarbox {
+        display: flex 1 1 20%;
+
+        padding: 4px;
+        border-radius: 10px;
+
+    }
+
+    .boxx{
+        z-index: 2;
+    }
+}
