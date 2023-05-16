@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+DEployment[Medtech,Records](https://medtech-dvbs-in4jorawb-garyrmeadetettey.vercel.app/).
 
 ## Available Scripts
 
