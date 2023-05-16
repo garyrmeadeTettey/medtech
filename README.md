@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-DEployment[Medtech,Records](https://medtech-dvbs-in4jorawb-garyrmeadetettey.vercel.app/).
+Project Deployment: [Medtech,Records](https://medtech-dvbs-in4jorawb-garyrmeadetettey.vercel.app/).
 
 ## Available Scripts
 
