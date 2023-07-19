@@ -25,14 +25,7 @@ const Adminhome = () => {
         <div className="listContainer">
           <div className="listTitle">Latest Patients</div>
           <Table />
-          <script>
- window.difyChatbotConfig = { token: 'B0Ce5RzN9YcuY6NE' }
-</script>
-<script
- src="https://udify.app/embed.min.js"
- id="B0Ce5RzN9YcuY6NE"
- defer>
-</script>
+          
         </div>
         <div>
           <h2>Doctors</h2>
