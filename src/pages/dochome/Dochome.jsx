@@ -25,6 +25,12 @@ const Dochome = () => {
         <div className="listContainer">
           <div className="listTitle">Latest Patients</div>
           <Table />
+          <iframe
+ src="https://udify.app/chatbot/B0Ce5RzN9YcuY6NE"
+ style="width: 100%; height: 100%; min-height: 700px"
+ frameborder="0" 
+ allow="microphone">
+</iframe>
         </div>
       </div>
     </div>
